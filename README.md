@@ -18,6 +18,6 @@ yarn
 * `.postcssrc` with [postcss-import](https://github.com/postcss/postcss-import), [precss](https://github.com/jonathantneal/precss), [cssnext](http://cssnext.io)
 * `.eslintrc` with `airbnb-base`, `plugin:react-pug/all`, `prettier` (using single quote rule)
 * `.browserslistrc`
-* redux, redux-actions, redux-logic, redux-persist, redux-form
+* redux, redux-actions, redux-thunk, redux-persist, redux-form
 * react-router-dom, react-router-redux
 * reselect
